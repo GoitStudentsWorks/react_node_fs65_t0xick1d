@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs65_t0xick1d/static/css/main.61210eba.css",
-    "main.js": "/react_node_fs65_t0xick1d/static/js/main.a57bc90f.js",
+    "main.js": "/react_node_fs65_t0xick1d/static/js/main.5800bf04.js",
     "static/media/image1_tb_retina.jpg": "/react_node_fs65_t0xick1d/static/media/image1_tb_retina.0a420ae0d2c7a5bab327.jpg",
     "static/media/image1_dt_retina.jpg": "/react_node_fs65_t0xick1d/static/media/image1_dt_retina.a3e1eca30171e26d56ca.jpg",
     "static/media/image3_tb_retina.jpg": "/react_node_fs65_t0xick1d/static/media/image3_tb_retina.f8eb33df40cb7ffb6030.jpg",
@@ -38,10 +38,10 @@
     "static/media/reviews-arrow-right.svg": "/react_node_fs65_t0xick1d/static/media/reviews-arrow-right.a22cdf87a7132e781406da0f90b2321e.svg",
     "static/media/reviews-arrow-left.svg": "/react_node_fs65_t0xick1d/static/media/reviews-arrow-left.419843934514a4ec72e12d89da762d2a.svg",
     "main.61210eba.css.map": "/react_node_fs65_t0xick1d/static/css/main.61210eba.css.map",
-    "main.a57bc90f.js.map": "/react_node_fs65_t0xick1d/static/js/main.a57bc90f.js.map"
+    "main.5800bf04.js.map": "/react_node_fs65_t0xick1d/static/js/main.5800bf04.js.map"
   },
   "entrypoints": [
     "static/css/main.61210eba.css",
-    "static/js/main.a57bc90f.js"
+    "static/js/main.5800bf04.js"
   ]
 }
